@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asemshaath&label=Profile%20views&color=0e75b6&style=flat" alt="asemshaath" /> </p>
 
-- 🌱 I’m currently learning **Microservices, and more backend dev**
+- 🌱 I’m exploring **Microservices, and more backend dev**
 
 - 📫 How to reach me **shaathasem@gmail.com**
 
