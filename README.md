@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asemshaath&label=Profile%20views&color=0e75b6&style=flat" alt="asemshaath" /> </p>
 
 - Exploring **Microservices, and full stack with backend focus** 
-- I also do AI if you want to invest in the AI bubble and catch the trend
+- I also do AI if you want to invest in the AI bubble and catch the trend.
 - I'm a fast learner.
 - I always get SaaS ideas that ends up half-baked.
 ### Let's Connect:
