@@ -5,7 +5,7 @@
 
 - Exploring **Microservices, and full stack with backend focus** 
 - I also do AI if you want to invest in the AI bubble and catch the trend.
-- I'm a fast learner.
+- I'm a fast learner (confirmed by my boss :) ).
 - I always get SaaS ideas that ends up half-baked.
 ### Let's Connect:
 <p align="left">
