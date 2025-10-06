@@ -6,7 +6,7 @@
 - Exploring **Microservices, and full stack with backend focus** 
 - I also do AI if you want to invest in the AI bubble and catch the trend.
 - I'm a fast learner (confirmed by my boss :) ).
-- I always get SaaS ideas that ends up half-baked.
+- I always develop half-baked SaaS ideas.
 ### Let's Connect:
 <p align="left">
 <a href="https://www.linkedin.com/in/asemshaath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asemshaath/" height="30" width="40" /></a>
