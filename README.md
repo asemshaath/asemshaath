@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asemshaath&label=Profile%20views&color=0e75b6&style=flat" alt="asemshaath" /> </p>
 
-- Currently working on [Afterchive](https://github.com/asemshaath/database-backup-utility)
+- Currently building [Afterchive](https://github.com/asemshaath/database-backup-utility)
 - Exploring **Microservices, and full stack with backend focus** 
 - I also do some AI if you want to invest in the AI bubble and catch the trend.
 - I'm a fast learner (confirmed by my boss :) ).
