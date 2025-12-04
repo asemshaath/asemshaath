@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asemshaath&label=Profile%20views&color=0e75b6&style=flat" alt="asemshaath" /> </p>
 
+If you are a recruiter or a hiring manager who came across my resume, well, thanks for visting my github profile. Please find the projects here: [Database Backup Utility](https://github.com/asemshaath/database-backup-utility) and [YouTube Clone](https://github.com/asemshaath/youtube-clone) 
+
+## About me
 - Currently building [Afterchive](https://github.com/asemshaath/database-backup-utility)
 - Exploring **Microservices, and full stack with backend focus** 
 - I also do some AI if you want to invest in the AI bubble and catch the trend.
