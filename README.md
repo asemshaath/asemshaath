@@ -9,7 +9,7 @@ If you are a recruiter or a hiring manager who came across my resume, well, than
 - Currently building [Afterchive](https://github.com/asemshaath/database-backup-utility)
 - Exploring **Microservices, and full stack with backend focus** 
 - I also do some AI if you want to invest in the AI bubble and catch the trend.
-- I'm a fast learner (confirmed by my boss :) ).
+
 ### Let's Connect:
 <p align="left">
 <a href="https://www.linkedin.com/in/asemshaath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asemshaath/" height="30" width="40" /></a>
